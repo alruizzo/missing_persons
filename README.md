@@ -15,6 +15,9 @@
 - The data used are available on this OSF [page](https://osf.io/2vkd5/).
 - The original (and up-to-date) source is [Datos Abiertos Colombia](https://www.datos.gov.co/Justicia-y-Derecho/Desaparecidos-Colombia-hist-rico-a-os-1930-a-junio/8hqm-7fdt)
 
+### Report
+- The written report on analyses, data, results, and conclusions can be downloaded from the *Journal of Computational Social Science* [here](https://link.springer.com/article/10.1007/s42001-022-00171-x) 
+
 ## Personas mayores desaparecidas
 ### Descripción
 - El presente repositorio incluye datos y análisis acerca de un proyecto de clasificación con aprendizaje automático supervisado de personas mayores desaparecidas en Colombia.
@@ -27,3 +30,6 @@
 ### Datos
 - Los datos usados están disponibles en esta [página](https://osf.io/2vkd5/) de OSF.
 - La fuente original (y actualizada) es [Datos Abiertos Colombia](https://www.datos.gov.co/Justicia-y-Derecho/Desaparecidos-Colombia-hist-rico-a-os-1930-a-junio/8hqm-7fdt)
+
+### Reporte
+- El reporte escrito completo de los análisis, datos, resultados y conclusiones se puede descargar del repositorio institucional de la Fundación Universitaria Los Libertadores, [aquí](https://repository.libertadores.edu.co/handle/11371/4970)
